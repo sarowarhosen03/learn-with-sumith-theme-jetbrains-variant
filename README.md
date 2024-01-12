@@ -1,7 +1,7 @@
 now you can use learn wiht sumith vscode theme on jetbrains ides
 here is the official vscode marketplace theme https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme
 
-#how to use?
+# how to use?
 1. clon this repositroy
 2 .open your any jetbrains ide
 3. open settings or type keyboard shortcut ctrl+alt+s
