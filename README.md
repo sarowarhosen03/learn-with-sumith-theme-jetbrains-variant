@@ -3,6 +3,9 @@ here is the official vscode marketplace theme https://marketplace.visualstudio.c
 
 # how to use?
 1. clon this repositroy
+   ```
+    git clone https://github.com/sarowarhosen03/learn-with-sumith-theme-jetbrains-variant.git
+   ```
 2 .open your any jetbrains ide
 3. open settings or type keyboard shortcut ctrl+alt+s
 4. naviget to color sceme setion 
