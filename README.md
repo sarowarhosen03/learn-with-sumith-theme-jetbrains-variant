@@ -17,4 +17,3 @@ here is the official vscode marketplace theme https://marketplace.visualstudio.c
 5 click the setting icon then click import the chose what variants you want
 
 
-# Thanks to https://github.com/JetBrains/colorSchemeTool
