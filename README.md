@@ -16,4 +16,8 @@ here is the official vscode marketplace theme https://marketplace.visualstudio.c
 
 5 click the setting icon then click import the chose what variants you want
 
+# Output  demo
+![image](https://github.com/sarowarhosen03/learn-with-sumith-theme-jetbrains-variant/assets/98280301/5eddf093-9bc4-4a69-b33c-6ed8711a31b5)
+
+
 
