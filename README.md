@@ -1,8 +1,8 @@
-now you can use learn wiht sumith vscode theme on jetbrains ides
-here is the official vscode marketplace theme https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme
+Now you can use learn with sumith vscode theme on jetbrains ides
+here is the official vscode marketplace theme from learn with sumith https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme
 
 # how to use?
-1 clon this repositroy
+1 clone this repositroy
    ```
     git clone https://github.com/sarowarhosen03/learn-with-sumith-theme-jetbrains-variant.git
    ```
